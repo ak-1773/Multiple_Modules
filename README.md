@@ -2,7 +2,8 @@
 The project is divided into multiple modules
 将一个项目分成多个模块， 每个模块可以单独调试。
 
-快速生成module
+快速生成module， 在Terminal中输入指令：
+
 ./gradlew gm -PmodName=hello -PpackName="com.example.hello"
 
 命令解释:
