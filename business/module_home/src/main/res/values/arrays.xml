@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_title">
+        <item>Hello</item>
+        <item>Test</item>
+        <item>设置</item>
+    </string-array>
+    <integer-array name="menu_icon">
+        <item>@drawable/menu_test</item>
+        <item>@drawable/menu_hello</item>
+        <item>@drawable/menu_setting</item>
+    </integer-array>
+</resources>
