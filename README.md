@@ -13,3 +13,6 @@ The project is divided into multiple modules
 如输入 ./gradlew gm -PmodName=hello
 默认包名则为: com.example.hello
 默认包名可以到配置中修改
+
+
+详情: https://blog.csdn.net/lin18775411773/article/details/149972048?spm=1001.2014.3001.5502
